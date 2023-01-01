@@ -1,3 +1,4 @@
+
 ## Anytime Lyrics
 
 - Used for getting lyrics of a song playing in the background
@@ -7,14 +8,19 @@
 
 
 ### Libraries/Code used so far
-<hr />
+
 #### GITHUB
-- https://github.com/rtcq/syncedlyrics
+
+- [https://github.com/rtcq/syncedlyrics](https://github.com/rtcq/syncedlyrics)
 
 #### Libraries
-pip install syncedlyrics
-### TODO
+
+- pip install syncedlyrics
+
 <hr />
+
+### TODO
+
 - [ ] Add code for getting async microphone input
 - [ ] Add code for song recognition (check starred list on GitHub: anytimeLyrics )
 - [x] Add code for getting lyrics given song and artist 
