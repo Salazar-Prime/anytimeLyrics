@@ -17,6 +17,11 @@
 
 - pip install syncedlyrics
 
+#### Resources
+
+- [https://www.shazam.com/shazamkit](https://www.shazam.com/shazamkit)
+- [https://rapidapi.com/apidojo/api/shazam](https://rapidapi.com/apidojo/api/shazam)
+
 <hr />
 
 ### TODO
@@ -25,4 +30,5 @@
 - [ ] Add code for song recognition (check starred list on GitHub: anytimeLyrics )
 - [x] Add code for getting lyrics given song and artist 
 - [ ] Add code for displaying lyrics in a nice way
+- [ ] Sync lyrics with song playing in background
 - [ ] Port as Alexa Skill
